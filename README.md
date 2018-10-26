@@ -69,3 +69,6 @@ Las soluciones a las que llegaremos al implementar a Sofía, el chatbot, son:
 Pero el chatbot por si solo no resolverá los problemas que se pueden presentar en atención a clientes, por lo que nosotras proponemos profundizar en los procesos de esta área de Telmobil.
 
 También proponemos la creación de una capacitación efectiva para que los agentes que estarán a cargo del chat adopten la misma forma que tiene Sofía al dirigirse a ellos para que el usuario no perciba el cambio entre nuestro bot y una persona, también para que den una verdadera atención a las personas que acudan a ellos y, así como Sofía, sean pacientes con la gente que no sabe de tecnicismos y necesitan que los lleven paso a paso en su proceso.
+
+## Prototipo
+[Prototipo interactivo de Sofía](https://www.facebook.com/TelmobiCom/)
